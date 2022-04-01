@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GuilhermeFabian/clean-node-server/issues"
   },
-  "homepage": "https://github.com/GuilhermeFabian/clean-node-server#readme"
+  "homepage": "https://github.com/GuilhermeFabian/clean-node-server#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
 }
